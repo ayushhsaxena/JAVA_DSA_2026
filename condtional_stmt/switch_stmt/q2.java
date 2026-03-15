@@ -1,3 +1,38 @@
+/*
+Program: Simple Calculator using Switch Statement in Java
+
+Description:
+This program implements a basic calculator using the switch statement in Java.
+It allows the user to perform different arithmetic operations on two numbers.
+
+Working:
+1. The program first imports the java.util package to use the Scanner class for user input.
+2. It asks the user to enter two numbers (a and b).
+3. A list of available operations is displayed:
+      1 : Addition (+)
+      2 : Subtraction (-)
+      3 : Multiplication (*)
+      4 : Division (/)
+      5 : Modulo (%)
+4. The user selects the operation by entering the corresponding serial number.
+5. A switch statement is used to check the selected operation.
+6. Based on the user's choice, the respective arithmetic calculation is performed.
+7. The result is then printed on the console.
+8. If the user enters an invalid option, the program displays an error message.
+
+Concepts Used:
+- Java Switch Statement
+- Scanner Class for User Input
+- Arithmetic Operators
+- Conditional Execution
+
+Purpose:
+This program demonstrates how switch statements can be used to control program
+flow when multiple choices are available.
+
+Author: Ayush Saxena
+*/
+
 package condtional_stmt.switch_stmt;
 import java.util.*;
 public class q2 {
