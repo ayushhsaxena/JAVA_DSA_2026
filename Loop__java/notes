@@ -1,0 +1,44 @@
+Java Loops
+
+Loops are used to execute a block of code repeatedly until a condition is satisfied. They help reduce code repetition and improve efficiency.
+
+
+While Loop
+
+Definition
+A while loop executes a block of code as long as the given condition is true.
+Working
+First, the condition is checked.
+If it is true, the loop body runs.
+This continues until the condition becomes false.
+Key Points
+Condition is checked before execution
+May not run even once if condition is false
+Useful when the number of iterations is not known
+
+
+Do-While Loop
+
+Definition
+A do-while loop executes the code block first and then checks the condition.
+Working
+The loop body runs once without checking the condition.
+After execution, the condition is checked.
+If true, it repeats; otherwise, it stops.
+Key Points
+Condition is checked after execution
+Runs at least once, even if the condition is false
+Commonly used in menu-driven programs
+
+
+For Loop
+
+Definition
+A for loop is used when the number of iterations is known beforehand.
+Working
+It has three parts: initialization, condition, and update.
+The loop runs as long as the condition is true, updating each time.
+Key Points
+More compact and readable
+Best for counting loops
+Commonly used in arrays and patterns
