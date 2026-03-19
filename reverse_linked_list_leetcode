@@ -1,3 +1,6 @@
+// ths code will enables you to reverse the linked list .
+// this is leet code question 
+
 import java.util.*
 class ListNode {
     int val;
