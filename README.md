@@ -30,7 +30,8 @@ Pattern Matching
 Singly Linked List
 Doubly Linked List
 Reverse Linked List
-Cycle Detection
+Cycle detection
+
 🔹 Stack & Queue
 Stack Operations
 Queue & Circular Queue
