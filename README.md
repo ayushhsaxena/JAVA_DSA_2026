@@ -1,6 +1,6 @@
 # JAVA_DSA_2026
 This repository showcases my structured practice and implementation of Data Structures and Algorithms (DSA) using Java. It serves as a comprehensive resource for strengthening my problem-solving skills and preparing for coding interviews and technical placements.
-📌 Objectives
+📌 Objective and Overview
 -Strengthen problem-solving skills
 -Master core DSA concepts
 -Prepare for technical interviews
