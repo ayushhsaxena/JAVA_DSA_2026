@@ -11,10 +11,14 @@ Definition
 -A while loop executes a block of code as long as the given condition is true.
 Working
 First, the condition is checked.
+
 If it is true, the loop body runs.
+
 This continues until the condition becomes false.
+
 Key Points
-Condition is checked before execution
+
+-Condition is checked before execution
 May not run even once if condition is false
 Useful when the number of iterations is not known
 
