@@ -12,7 +12,6 @@ IDE: IntelliJ IDEA / VS Code
 Platform: LeetCode, GFG, HackerRank
 📂 Topics Covered
 🔹 Basics
-Input/Output
 Time & Space Complexity
 Recursion
 🔹 Arrays
