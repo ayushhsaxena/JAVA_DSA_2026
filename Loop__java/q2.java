@@ -1,5 +1,4 @@
-package Loop__java;
-
+package Loop__java;
 public class q2 {
     //do - while loop
     public static void main(String[] args) {
