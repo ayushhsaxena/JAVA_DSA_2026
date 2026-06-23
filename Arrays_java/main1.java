@@ -7,6 +7,7 @@ public class LargestElement {
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] > max) {
                 max = arr[i];
+                arr++;
             }
         }
 
